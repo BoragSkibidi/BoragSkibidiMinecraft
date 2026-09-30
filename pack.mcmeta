@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "§2Borags",
+    "pack_format": 16,
+    "supported_formats": {
+		"min_inclusive": 16, 
+		"max_inclusive": 22
+	}
+  }
+}
