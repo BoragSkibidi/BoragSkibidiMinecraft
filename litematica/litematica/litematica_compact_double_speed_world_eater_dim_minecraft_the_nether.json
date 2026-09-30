@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 115,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "World_eater",
+    "current": "World_eater",
+    "boxes": [
+      {
+        "pos1": [
+          112,
+          127,
+          -177
+        ],
+        "pos2": [
+          -208,
+          98,
+          -512
+        ],
+        "name": "World_eater"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": true
+    }
+  }
+}

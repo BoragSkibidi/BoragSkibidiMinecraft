@@ -1,0 +1,124 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\.minecraft\\versions\\fabric1.20.4\\schematics\\Contraption\\Speed Sorter.litematic",
+        "name": "Speed Sorter",
+        "origin": [
+          4,
+          -56,
+          10
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Speed Sorter",
+            "placement": {
+              "pos": [
+                6,
+                0,
+                0
+              ],
+              "name": "Speed Sorter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\.minecraft\\versions\\fabric1.20.4\\schematics\\Farms\\Strarters\\Starter_IronFarm.litematic",
+        "name": "Starter_IronFarm",
+        "origin": [
+          -10,
+          -62,
+          -33
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Starter_IronFarm",
+            "placement": {
+              "pos": [
+                0,
+                26,
+                9
+              ],
+              "name": "Starter_IronFarm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "y",
+    "layer_single": -64,
+    "layer_above": 0,
+    "layer_below": 1,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "tmp",
+    "current": "tmp",
+    "boxes": [
+      {
+        "pos1": [
+          -64,
+          -64,
+          80
+        ],
+        "pos2": [
+          63,
+          -64,
+          143
+        ],
+        "name": "tmp"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

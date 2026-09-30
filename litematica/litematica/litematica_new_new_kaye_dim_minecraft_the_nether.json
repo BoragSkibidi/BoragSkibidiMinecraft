@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\Intel\\AppData\\Roaming\\.minecraft\\schematics\\portal gold farm.litematic",
+        "name": "portal god farm",
+        "origin": [
+          -108,
+          128,
+          16
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "portal god farm",
+            "placement": {
+              "pos": [
+                40,
+                0,
+                0
+              ],
+              "name": "portal god farm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "Y",
+    "layer_single": 128,
+    "layer_above": 69,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "ghast_farm",
+    "current": "ghast_farm",
+    "boxes": [
+      {
+        "pos1": [
+          -6,
+          128,
+          2
+        ],
+        "pos2": [
+          -6,
+          128,
+          2
+        ],
+        "name": "ghast_farm"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

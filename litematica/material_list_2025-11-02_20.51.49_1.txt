@@ -1,0 +1,28 @@
++---------------------+-------+---------+-----------+
+| Material List for placement 'gold_farm'           |
++---------------------+-------+---------+-----------+
+| Item                | Total | Missing | Available |
++---------------------+-------+---------+-----------+
+| Magma Block         |  5696 |    5696 |      5698 |
+| Glass               |  2450 |    2450 |         0 |
+| Stone Bricks        |    97 |      97 |         0 |
+| Hopper              |    69 |      69 |         0 |
+| Anvil               |    60 |      60 |         0 |
+| Redstone Dust       |    48 |      48 |         0 |
+| Composter           |    28 |      28 |         0 |
+| Oak Trapdoor        |    28 |      28 |         0 |
+| Redstone Comparator |    16 |      16 |         0 |
+| Redstone Repeater   |    16 |      16 |         0 |
+| Redstone Torch      |    16 |      16 |         0 |
+| Stone Brick Slab    |    12 |      12 |         0 |
+| Stone Brick Stairs  |    12 |      12 |         0 |
+| Chest               |     8 |       8 |         0 |
+| Rail                |     4 |       4 |         2 |
+| White Carpet        |     4 |       4 |         0 |
+| White Concrete      |     4 |       4 |         0 |
+| Ladder              |     2 |       2 |         0 |
+| Enchanting Table    |     1 |       1 |         0 |
+| Ender Chest         |     1 |       1 |         1 |
++---------------------+-------+---------+-----------+
+| Item                | Total | Missing | Available |
++---------------------+-------+---------+-----------+

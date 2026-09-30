@@ -1,0 +1,27 @@
++------------------------------+-------+---------+----------------------+
+| Material List for schematic '14m271wide world eater' (3 of 3 regions) |
++------------------------------+-------+---------+----------------------+
+| Item                         | Total | Missing |            Available |
++------------------------------+-------+---------+----------------------+
+| Slime Block                  |  4494 |    4494 |                    0 |
+| Oak Leaves                   |  2096 |    2096 |                    0 |
+| Piston                       |  1444 |    1444 |                    0 |
+| Observer                     |  1343 |    1343 |                    0 |
+| Sticky Piston                |   917 |     917 |                    0 |
+| Block of Redstone            |   670 |     670 |                    0 |
+| Light Gray Concrete          |   373 |     373 |                    0 |
+| Honey Block                  |   267 |     267 |                    0 |
+| Light Gray Glazed Terracotta |   220 |     220 |                    0 |
+| Melon                        |   220 |     220 |                    0 |
+| Anvil                        |    88 |      88 |                    5 |
+| Iron Bars                    |    88 |      88 |                    0 |
+| Dead Tube Coral Fan          |    44 |      44 |                    0 |
+| Detector Rail                |    44 |      44 |                   53 |
+| End Stone Brick Slab         |    44 |      44 |                    0 |
+| Sand                         |    44 |      44 |                  106 |
+| TNT                          |    44 |      44 |                   53 |
+| Black Stained Glass          |    43 |      43 |                    0 |
+| Note Block                   |     1 |       1 |                    0 |
++------------------------------+-------+---------+----------------------+
+| Item                         | Total | Missing |            Available |
++------------------------------+-------+---------+----------------------+

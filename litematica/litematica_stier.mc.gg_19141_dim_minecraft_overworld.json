@@ -1,0 +1,127 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\PrismLauncher\\instances\\universal\\schematics\\Farms\\sugarcane farm.litematic",
+        "name": "sugarcane farm",
+        "origin": [
+          271,
+          59,
+          -1555
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "hash_code": "4540d95d-20a4-4227-9b97-56b460263000",
+        "placements": [
+          {
+            "name": "sugarcane farm",
+            "placement": {
+              "pos": [
+                94,
+                0,
+                0
+              ],
+              "name": "sugarcane farm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\PrismLauncher\\instances\\universal\\schematics\\chamber farm.litematic",
+        "name": "kill chamber",
+        "origin": [
+          913,
+          -25,
+          -1535
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 11741265,
+        "verifier_type": "all",
+        "hash_code": "02b04534-163e-4366-9db1-766d746821d5",
+        "placements": [
+          {
+            "name": "kill chamber",
+            "placement": {
+              "pos": [
+                14,
+                -11,
+                20
+              ],
+              "name": "kill chamber",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "Y",
+    "layer_single": -25,
+    "layer_above": 6,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "temporary",
+    "current": "temporary",
+    "boxes": [
+      {
+        "pos1": [
+          882,
+          5,
+          -1534
+        ],
+        "pos2": [
+          882,
+          5,
+          -1534
+        ],
+        "name": "temporary"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

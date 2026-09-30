@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\Intel\\AppData\\Roaming\\.minecraft\\schematics\\word_eater.litematic",
+        "name": "Word_Eater",
+        "origin": [
+          64,
+          152,
+          -64
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Word_Eater",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Word_Eater",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 115,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Word_Eater",
+    "current": "Word_Eater",
+    "boxes": [
+      {
+        "pos1": [
+          -208,
+          98,
+          -512
+        ],
+        "pos2": [
+          111,
+          124,
+          -177
+        ],
+        "name": "Word_Eater"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": true
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\.minecraft\\versions\\fabric-loader-0.16.14-1.21.6\\schematics\\Randoms\\mobfarm.litematic",
+        "name": "mobfarm",
+        "origin": [
+          8,
+          135,
+          6
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "hash_code": "8aca645c-152a-4270-a0a0-4ec567dd33a2",
+        "placements": [
+          {
+            "name": "mobfarm",
+            "placement": {
+              "pos": [
+                0,
+                39,
+                0
+              ],
+              "name": "mobfarm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\.minecraft\\versions\\fabric-loader-0.16.14-1.21.6\\schematics\\Contraption\\Speed Sorter.litematic",
+        "name": "Speed Sorter",
+        "origin": [
+          44,
+          105,
+          24
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "hash_code": "81466b6d-6f27-42d0-a492-1f3be0916a6c",
+        "placements": [
+          {
+            "name": "Speed Sorter",
+            "placement": {
+              "pos": [
+                6,
+                0,
+                0
+              ],
+              "name": "Speed Sorter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "General Mob Farm",
+    "current": "General Mob Farm",
+    "boxes": [
+      {
+        "pos1": [
+          52,
+          105,
+          50
+        ],
+        "pos2": [
+          8,
+          237,
+          2
+        ],
+        "name": "General Mob Farm"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

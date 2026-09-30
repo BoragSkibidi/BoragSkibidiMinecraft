@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL_ABOVE",
+    "axis": "Y",
+    "layer_single": 19,
+    "layer_above": -153,
+    "layer_below": -81,
+    "layer_range_min": 0,
+    "layer_range_max": 13,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "shukerbox_slice_loader",
+    "current": "shukerbox_slice_loader",
+    "boxes": [
+      {
+        "pos1": [
+          -77,
+          8,
+          1932
+        ],
+        "pos2": [
+          -84,
+          1,
+          1932
+        ],
+        "name": "shukerbox_slice_loader"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

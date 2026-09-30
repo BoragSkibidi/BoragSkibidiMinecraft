@@ -1,0 +1,129 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\PrismLauncher\\instances\\universal\\schematics\\Farms\\WitherSkeletonFarm_PortalBased.litematic",
+        "name": "WitherSkeletonFarm_PortalBased",
+        "origin": [
+          -619,
+          63,
+          -741
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "hash_code": "c5bba283-a9de-48d6-9ac1-9d85d483c18a",
+        "placements": [
+          {
+            "name": "WitherSkeletonFarm_PortalBased",
+            "placement": {
+              "pos": [
+                9,
+                12,
+                15
+              ],
+              "name": "WitherSkeletonFarm_PortalBased",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\borag\\.minecraftx\\instances\\Fabric\\schematics\\Farms\\FrogLightFarm.litematic",
+        "name": "FrogLightFarm",
+        "origin": [
+          38,
+          129,
+          65
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "hash_code": "45ea5f7e-cad1-4886-8e6a-6d16591e7f47",
+        "placements": [
+          {
+            "name": "FrogLightFarm",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                28
+              ],
+              "name": "FrogLightFarm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL_BELOW",
+    "axis": "y",
+    "follow_player": false,
+    "layer_single": 64,
+    "layer_above": 0,
+    "layer_below": 251,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "player_follow_offset": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -608,
+          128,
+          -739
+        ],
+        "pos2": [
+          -608,
+          128,
+          -739
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

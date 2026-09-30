@@ -1,0 +1,124 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "E:\\.minecraft\\schematics\\theGlotzerify OP Pigman Farm Nether.litematic",
+        "name": "theGlotzerify OP Pigman Farm Nether",
+        "origin": [
+          277,
+          6,
+          -60
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "theGlotzerify OP Pigman Farm Nether",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "theGlotzerify OP Pigman Farm Nether",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\Intel\\AppData\\Roaming\\.minecraft\\schematics\\theGlotzerify OP Pigman Farm Overworld.litematic",
+        "name": "theGlotzerify OP Pigman Farm Overworld",
+        "origin": [
+          52,
+          219,
+          -105
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "theGlotzerify OP Pigman Farm Overworld",
+            "placement": {
+              "pos": [
+                34,
+                29,
+                42
+              ],
+              "name": "theGlotzerify OP Pigman Farm Overworld",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL_ABOVE",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "portal_based_guardian_farm_nether",
+    "current": "portal_based_guardian_farm_nether",
+    "boxes": [
+      {
+        "pos1": [
+          -55,
+          255,
+          14
+        ],
+        "pos2": [
+          -89,
+          197,
+          26
+        ],
+        "name": "portal_based_guardian_farm_nether"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

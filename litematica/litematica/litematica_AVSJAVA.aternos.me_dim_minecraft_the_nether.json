@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "Y",
+    "layer_single": 72,
+    "layer_above": 64,
+    "layer_below": -81,
+    "layer_range_min": 0,
+    "layer_range_max": 13,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "phantom farm",
+    "current": "phantom farm",
+    "boxes": [
+      {
+        "pos1": [
+          58,
+          69,
+          -222
+        ],
+        "pos2": [
+          64,
+          64,
+          -228
+        ],
+        "name": "phantom farm"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "E:\\.minecraft\\schematics\\theGlotzerify OP Pigman Farm Nether.litematic",
+        "name": "theGlotzerify OP Pigman Farm Nether",
+        "origin": [
+          236,
+          128,
+          -116
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "theGlotzerify OP Pigman Farm Nether",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "theGlotzerify OP Pigman Farm Nether",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "E:\\.minecraft\\schematics\\portal_shulker_farm_n.litematic",
+        "name": "portal_shulker_farm_n",
+        "origin": [
+          313,
+          51,
+          -630
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "portal_shulker_farm_n",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                16
+              ],
+              "name": "portal_shulker_farm_n",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\Intel\\AppData\\Roaming\\.minecraft\\schematics\\nothing.litematic",
+        "name": "nothing",
+        "origin": [
+          285,
+          66,
+          -630
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "nothing",
+            "placement": {
+              "pos": [
+                28,
+                0,
+                0
+              ],
+              "name": "nothing",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\Intel\\AppData\\Roaming\\.minecraft\\schematics\\ghast_farm.schem",
+        "name": "ghast_farm (Converted Structure)",
+        "origin": [
+          -1084,
+          128,
+          -44
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "ghast_farm (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "ghast_farm (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\Intel\\AppData\\Roaming\\.minecraft\\schematics\\ghast_farm.schem",
+        "name": "ghast_farm (Converted Structure)",
+        "origin": [
+          -1084,
+          128,
+          -44
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "ghast_farm (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "ghast_farm (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 4,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 128,
+    "layer_above": 69,
+    "layer_below": 24,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "nothing",
+    "current": "nothing",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          1,
+          0
+        ],
+        "pos2": [
+          0,
+          5,
+          -6
+        ],
+        "name": "nothing"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": true
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL_ABOVE",
+    "axis": "Y",
+    "layer_single": 19,
+    "layer_above": -154,
+    "layer_below": -81,
+    "layer_range_min": 0,
+    "layer_range_max": 13,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "moss_farm",
+    "current": "moss_farm",
+    "boxes": [
+      {
+        "pos1": [
+          293,
+          6,
+          246
+        ],
+        "pos2": [
+          266,
+          19,
+          181
+        ],
+        "name": "moss_farm"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

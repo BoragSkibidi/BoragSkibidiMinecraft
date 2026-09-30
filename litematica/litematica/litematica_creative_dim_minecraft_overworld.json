@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "REPLACE_BLOCK",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 128,
+    "layer_above": 69,
+    "layer_below": 24,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "nothing",
+    "current": "nothing",
+    "boxes": [
+      {
+        "pos1": [
+          313,
+          50,
+          -630
+        ],
+        "pos2": [
+          285,
+          54,
+          -602
+        ],
+        "name": "nothing"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": true
+    }
+  }
+}

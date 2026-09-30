@@ -1,0 +1,168 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\borag\\AppData\\Roaming\\PrismLauncher\\instances\\universal\\schematics\\Farms\\wither_skeleton_farm.litematic",
+        "name": "wither_skeleton_farm",
+        "origin": [
+          -2429,
+          68,
+          -162
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "hash_code": "0afc39e0-6ef1-4654-b3ba-2adbaff036ad",
+        "placements": [
+          {
+            "name": "wither_skeleton_farm",
+            "placement": {
+              "pos": [
+                30,
+                0,
+                0
+              ],
+              "name": "wither_skeleton_farm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\borag\\.minecraftx\\instances\\Fabric\\schematics\\Farms\\WitherRoseFarm.litematic",
+        "name": "WitherRoseFarm",
+        "origin": [
+          -2441,
+          59,
+          -177
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5453690,
+        "verifier_type": "all",
+        "hash_code": "b174a4f0-c136-4182-b6f8-0eaf038dcedf",
+        "placements": [
+          {
+            "name": "WitherRoseFarm",
+            "placement": {
+              "pos": [
+                0,
+                54,
+                0
+              ],
+              "name": "WitherRoseFarm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\borag\\.minecraftx\\instances\\Fabric\\schematics\\Farms\\WitherRoseFarm.litematic",
+        "name": "WitherRoseFarm",
+        "origin": [
+          -2441,
+          62,
+          -177
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 11741265,
+        "verifier_type": "all",
+        "hash_code": "7dee4959-e4d4-4724-ab6b-213e68146689",
+        "placements": [
+          {
+            "name": "WitherRoseFarm",
+            "placement": {
+              "pos": [
+                0,
+                54,
+                0
+              ],
+              "name": "WitherRoseFarm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 2,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "y",
+    "follow_player": false,
+    "layer_single": 112,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "player_follow_offset": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

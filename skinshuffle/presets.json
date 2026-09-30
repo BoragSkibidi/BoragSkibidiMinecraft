@@ -1,0 +1,23 @@
+{
+  "chosenPreset": 1,
+  "apiPreset": 1,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "2024611558",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "Hitler",
+      "keybindId": 1
+    },
+    {
+      "skin": {
+        "skin_name": "512630513",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "Borags"
+    }
+  ]
+}
